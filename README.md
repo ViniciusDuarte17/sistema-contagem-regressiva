@@ -4,7 +4,7 @@
 
 - Rota de pegar quantos dias faltam para o natal com a data atual retornando em dias horas minutos e segundos. 
 - Rota de pegar quantos dias faltam para o pascoa com a data atual retornando em dias horas minutos e segundos.
-- Rota que espera receber a idade na URL da requisição, retorna quantos anos a pessoa vai ter em 2100
+- Rota que espera receber a idade na URL da requisição, retorna quantos anos a pessoa ira ter em 2100
 
 ### Instruções para rodar aplicação localmente
 
