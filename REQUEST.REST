@@ -1,0 +1,12 @@
+###
+GET http://localhost:3000/natal
+
+// ENPOINT RETORNA QUANTOS DIAS FALTA PARA O NATAL.
+###
+
+GET http://localhost:3000/pascoa
+
+// ENDPINT RETORNA QUANTOS DIAS FALTA PARA A PASCOA
+###
+
+GET http://localhost:3000/idade?age=20
